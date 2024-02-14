@@ -2,7 +2,7 @@
 
 * Студент: [Вероника Утемишева](https://up.htmlacademy.ru/htmlcss/39/user/2497291).
 * Наставник: [Оксана Вайнруб](https://htmlacademy.ru/profile/id166797).
-
+* Сайт: [Мой проект](https://nikanerat.github.io/2497291-sedona-39/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
